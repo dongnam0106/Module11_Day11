@@ -1,4 +1,4 @@
-package queue;
+package queueuselinkedlist;
 
 public class LinkedListQueueClient {
     public static void main(String[] args) {

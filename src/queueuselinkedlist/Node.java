@@ -1,4 +1,4 @@
-package queue;
+package queueuselinkedlist;
 
 public class Node {
     public int key;
